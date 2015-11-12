@@ -1,5 +1,4 @@
 (function ($) {
-
 	function SpinBox(obj){
 		this.btnMinus = obj.find('.btn-minus');
 		this.btnPlus = obj.find('.btn-plus');
